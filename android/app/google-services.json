@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226779761478",
+    "project_id": "calculator-5a6e3",
+    "storage_bucket": "calculator-5a6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226779761478:android:4f2845ef75fcbd7014b347",
+        "android_client_info": {
+          "package_name": "com.kruziik.calc_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226779761478-fsrd9q220bmq5tf4vhrjk1n31qgp756r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kruziik.calc_challenge",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "226779761478-nt6cmvjgm9um9h5ppnp8qhmfabvlkj9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpKkSWCI6ZziSeryTREleXg87yEHj8rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226779761478-nt6cmvjgm9um9h5ppnp8qhmfabvlkj9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
